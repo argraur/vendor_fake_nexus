@@ -4,6 +4,7 @@ PRODUCT_PACKAGE_OVERLAYS := \
 PRODUCT_PACKAGES := \
 	PixelSoundResources \
 	NexusLauncher \
+	SystemUIGoogle \
 
 PRODUCT_PROPERTY_OVERRIDES := \
 	ro.config.ringtone=Zen.ogg \
